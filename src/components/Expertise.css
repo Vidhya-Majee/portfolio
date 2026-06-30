@@ -1,0 +1,32 @@
+/* EXPERTISE */
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.card-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  transition: .35s;
+}
+
+.card:hover .card-icon {
+  transform: scale(1.2) rotate(-8deg);
+}
+
+.card h3 {
+  font-size: 1rem;
+  margin-bottom: .5rem;
+}
+
+.card p {
+  color: var(--muted);
+  font-size: .82rem;
+  line-height: 1.75;
+}
+
+@media (max-width: 950px) {
+  .grid-3 { grid-template-columns: 1fr; }
+}

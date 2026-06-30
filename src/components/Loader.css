@@ -1,0 +1,57 @@
+/* LOADER */
+#loader {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transition: opacity .7s ease;
+}
+
+.loader-logo {
+  font-family: var(--head);
+  font-size: clamp(4rem, 12vw, 8rem);
+  color: var(--green);
+  letter-spacing: .08em;
+  text-shadow: 0 0 40px rgba(0,255,157,.35);
+  margin-bottom: 1.2rem;
+  animation: loaderPulse 1.4s ease-in-out infinite;
+}
+
+@keyframes loaderPulse {
+  0%, 100% {
+    transform: scale(1);
+    text-shadow: 0 0 40px rgba(0,255,157,.35);
+  }
+  50% {
+    transform: scale(1.05);
+    text-shadow: 0 0 80px rgba(0,255,157,.7);
+  }
+}
+
+.loader-bar {
+  width: 260px;
+  height: 3px;
+  background: rgba(255,255,255,.08);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.loader-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, var(--green), var(--cyan));
+  border-radius: 999px;
+  transition: width .1s linear;
+}
+
+.loader-text {
+  margin-top: .8rem;
+  font-family: var(--mono);
+  color: var(--muted);
+  font-size: .7rem;
+  letter-spacing: .12em;
+}
