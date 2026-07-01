@@ -11,7 +11,7 @@
 
 # ✦ VIDHYA MAJEE — PORTFOLIO ✦
 
-### *Full-Stack MERN Developer · Data Science Enthusiast · RAG & LLM Engineer*
+### *Full-Stack MERN Developer · Data Science Enthusiast*
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 > *"I build modern full-stack web applications, AI-powered tools, and data-driven solutions.*
-> *Passionate about clean UI, scalable backend systems, machine learning, and turning ideas into real products."*
+> *Passionate about clean UI, scalable backend systems,data science machine learning, and turning ideas into real products."*
 
 <br/>
 
@@ -236,7 +236,7 @@ App (State: started, navShow)
 | 💼 LinkedIn | [linkedin.com/in/vidhya-majee-7807b9321](https://www.linkedin.com/in/vidhya-majee-7807b9321) |
 | 🐙 GitHub | [github.com/Vidhya-Majee](https://github.com/Vidhya-Majee) |
 | 📍 Location | Kanpur, Uttar Pradesh, India |
-| 📞 Phone | +91-8052134234 |
+
 
 </div>
 
@@ -246,9 +246,7 @@ App (State: started, navShow)
 
 ```
 > status: open_to_work
-> focus: internships · freelance · full-time roles
-> stack: MERN · Python · ML · RAG · LLM
-> location: Kanpur, India  (Remote-friendly ✓)
+> stack: MERN · Python · DS · ML 
 > graduation: BCA 2027
 ```
 
@@ -256,7 +254,7 @@ App (State: started, navShow)
 
 **Crafted with 💚 by Vidhya Majee**
 
-*BCA 2027 · Kanpur · Built with React 19 + Vite 8*
+*Passionate BCA Candidate · Kanpur · Built with React 19 + Vite 8*
 
 <br/>
 
