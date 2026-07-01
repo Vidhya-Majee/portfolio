@@ -136,59 +136,7 @@ IntersectionObserver    →  Scroll-triggered reveal animations
 Web Animations API      →  CSS transitions + transform-based effects
 ```
 
----
 
-## 🚀 Projects Showcased
-
-| # | Project | Stack | Type |
-|---|---|---|---|
-| 01 | **CREDIT-FRAUD-AI** — 83% Recall on imbalanced dataset with SHAP explainability | Python · Scikit-learn · SHAP · Streamlit | 🤖 ML / AI |
-| 02 | **SOCIAL-SPHERE** — Full social platform (auth, feed, posts, profiles, social graph) | React · Node.js · MongoDB · JWT | 🌐 Full-Stack |
-| 03 | **RAG-TEACH-AI** — Fully offline RAG pipeline with Whisper + Llama 3.2 + BGE-M3 | Python · Ollama · Whisper · Cosine Sim | 🧠 RAG / LLM |
-| 04 | **RAKTDAAN** — Real-time blood donation network (India's free donor-patient bridge) | React · Node.js · MongoDB · Tailwind | 🌐 Full-Stack |
-| 05 | **GURGAON-PRICE-ML** — 10k rows, 8 features, 4 models benchmarked with 10-fold CV | Python · Scikit-learn · Pandas · EDA | 📊 ML / DS |
-| 06 | **JARVIS** — Dual-mode voice assistant (Web HUD + offline terminal console) | Python · Flask · Gemini API · Speech API | 🎙️ AI Voice |
-| 07 | **BAGWAGON** — E-commerce SSR app with cart-to-checkout + admin panel | Node.js · Express · MongoDB · EJS | 🛒 E-Commerce |
-
----
-
-## 🧠 Skills & Expertise
-
-<details>
-<summary><strong>🌐 Languages</strong></summary>
-
-`Python` `JavaScript` `Java` `C++` `C` `HTML5` `CSS3`
-
-</details>
-
-<details>
-<summary><strong>⚛️ Frontend & Frameworks</strong></summary>
-
-`React.js` `Angular` `EJS` `Tailwind CSS` `Vanilla CSS`
-
-</details>
-
-<details>
-<summary><strong>⚙️ Backend & Databases</strong></summary>
-
-`Node.js` `Express.js` `MongoDB` `MySQL` `Firebase` `REST API` `JWT` `Mongoose`
-
-</details>
-
-<details>
-<summary><strong>🤖 Data Science & AI / ML</strong></summary>
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Streamlit` `Jupyter`
-`Ollama` `LangChain` `Whisper` `BGE-M3` `SHAP` `Llama 3.2`
-
-</details>
-
-<details>
-<summary><strong>🛠️ Tools & DevOps</strong></summary>
-
-`Git` `GitHub` `Postman` `VS Code` `Vite` `Oxlint`
-
-</details>
 
 ---
 
