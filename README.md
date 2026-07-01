@@ -192,39 +192,6 @@ Web Animations API      →  CSS transitions + transform-based effects
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Period |
-|---|---|---|
-| 🎓 **BCA — Bachelor of Computer Applications** | Allenhouse Business School, Kanpur *(CSJM University)* | 2024 – 2027 |
-| 📚 **Intermediate — Class XII** | Jalpa Devi Inter College, Kanpur | 2024 |
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🧠 AI Fundamentals: Language and Vision in AI | IBM SkillsBuild | 2026 |
-| 📊 DataPlus Programme | TCS MasterCraft™ Academy | 2026 |
-| 🤖 Data Science Certification | Infosys Springboard | 2026 |
-| ✨ AI Fluency: Framework & Foundation | Anthropic Education | 2026 |
-| 🐬 MySQL Certification | HackerRank | 2025 |
-| 🐍 Data Science Certification | CodeWithHarry | 2025 |
-| 🐍 Python Programming | CodeWithHarry | 2025 |
-| 📐 Fundamentals of Object-Oriented Programming | NPTEL — IIT Roorkee | 2024 |
-| ⚛️ Angular, JavaScript & React.js Training | Allenhouse Business School | 2024 |
-
----
-
-## 🏅 Achievements & Recognition
-
-- 🥇 **1st Prize** — Web Development Competition *(Web Rachaita)* — recognised for technical execution and UI design excellence
-- 🏆 **Smart India Hackathon (SIH)** — College-level round participant, team-based software solution
-- 🎙️ **AI and Workforce Transformation Seminar** — CSJM University, Kanpur · July 2025
-- 🛡️ **Cyber Security and Ethical Hacking Workshop** · August 2024
-
----
 
 ## ⚡ Getting Started
 
